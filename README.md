@@ -1,7 +1,6 @@
-# eldoria-nexus-docs
-Documentation for Eldoria Nexus Engine – a procedural creature generation system for game development with controlled randomness, mutations, and AI-driven behavior."
 # Eldoria Nexus Docs  
-Welcome to the Eldoria Nexus documentation.  
+
+Welcome to the official Eldoria Nexus documentation.  
 
 📌 **Sections:**  
 - [Installation](installation.md)  
